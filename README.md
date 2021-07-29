@@ -2,13 +2,11 @@
 
 ## nessa receita vc aprenderá a fazer um delicioso bolo de fuba :heart:<br>
 
-## ```diff
--ingredientes
-```
+<font color="red"> ingrdientes</font><br>
 ### 1 copo de leite <br>
 ### 1 copo de farinha de trigo<br>
 ### 1 copo de fubá de milho <br>
-### 1 colher de fermento em pó
+### 1 colher de fermento em pó<br>
 
 ## Modo de preparo<br>
 
