@@ -2,7 +2,7 @@
 
 ##nessa receita vc aprenderá a fazer um delicioso bolo de fuba :heart:<br>
 
-##<p style="color:#FF000";> Ingredientes</p> <br>
+##<font color="red"> Ingredientes</font> <br>
 
 ###1 copo de leite <br>
 ###1 copo de farinha de trigo<br>
